@@ -2,7 +2,6 @@
 
 !*/
 
-# Track only code files
 !*.yaml
 #!*.sh
 #!*.slurm
