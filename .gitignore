@@ -1,0 +1,13 @@
+*
+
+!*/
+
+# Track only code files
+!*.yaml
+#!*.sh
+#!*.slurm
+
+__pycache__/
+
+!.gitignore
+

@@ -1,0 +1,20 @@
+name: gpu
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - pytorch-cuda=11.8
+  - torchaudio
+  - torchvision
+  - matplotlib
+  - pandas
+  - seaborn
+  - textblob
+  - vadersentiment
+  - transformers
+  - fastparquet
+prefix: /mnt/scratch2/users/3054633/conda/envs/gpu
