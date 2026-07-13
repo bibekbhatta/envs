@@ -1,4 +1,4 @@
-name: /mnt/scratch2/users/3054633/conda/envs/modis
+name: modis
 channels:
   - conda-forge
   - defaults
