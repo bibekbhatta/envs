@@ -1,4 +1,4 @@
-name: /mnt/scratch2/users/3054633/conda/envs/llm
+name: llm
 channels:
   - conda-forge
 dependencies:
